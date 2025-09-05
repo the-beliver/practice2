@@ -1,2 +1,2 @@
 # Teacher 
-shradha is a good teacher
+shradha is a good teacher.
